@@ -8,7 +8,7 @@
 		(title "WLED Controller")
 		(date "2025-01-20")
 		(rev "1.0.0")
-		(company "Marc Schöndorf")
+		(company "(C) 2025 Marc Schöndorf")
 	)
 	(lib_symbols
 		(symbol "74xx:74AHCT125"
