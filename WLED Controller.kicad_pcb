@@ -32276,7 +32276,7 @@
 		)
 		(fp_arc
 			(start 26.915257 50)
-			(mid 26.475908 51.06065)
+			(mid 26.475909 51.060654)
 			(end 25.415257 51.5)
 			(stroke
 				(width 0.17)
@@ -32298,7 +32298,7 @@
 		)
 		(fp_arc
 			(start 25.415257 -5.643236)
-			(mid 26.475987 -5.203943)
+			(mid 26.476016 -5.203972)
 			(end 26.915257 -4.143236)
 			(stroke
 				(width 0.17)
@@ -42358,7 +42358,7 @@
 		)
 	)
 	(gr_text "WLED Controller\nV1.0.0"
-		(at 190.27 139.5 90)
+		(at 190.5 140.335 90)
 		(layer "F.SilkS" knockout)
 		(uuid "6f5de626-390e-4fd6-b2e4-5a6dc00469bc")
 		(effects
@@ -42462,7 +42462,7 @@
 		)
 	)
 	(gr_text "©2025 Marc Schöndorf"
-		(at 194 142 90)
+		(at 193.675 142 90)
 		(layer "F.SilkS" knockout)
 		(uuid "bca9e58b-d3f3-43d3-a651-923007eaab7e")
 		(effects
